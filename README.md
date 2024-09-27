@@ -1,8 +1,8 @@
 # What is this
 
-This project allows someone to create a responsive virtual map, with less effort than I went through. Requires NPM, and is built with React, Leaflet, and Game-Icons
+This is a fork of [this repo](https://github.com/manianiac/fantasy-leaflet-map). Requires NPM, and is built with React, [Leaflet](https://leafletjs.com/), and [Game-Icons](https://www.game-icons.net).
 
-There is a running version of this located at https://manianiac.github.io/naidaru-map/
+The rest of this readme is currently unchanged from the original repo.
 
 # Setup
 
